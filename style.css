@@ -24,6 +24,8 @@ main {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
+      border-radius: 15px;
+
   }
   .mainlogo{
     justify-content: center;
@@ -78,7 +80,8 @@ display: grid;
 }
 
 .btn:hover {
-  background-color: rgb(196, 12, 12);
+   background-color: rgb(234, 81, 81);
+
 }
 
 
