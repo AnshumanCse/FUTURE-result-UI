@@ -11,3 +11,5 @@ function trylater() {
 function myStopFunction() {
   clearTimeout(myTimeout);
 }
+function myButton (){
+    }
